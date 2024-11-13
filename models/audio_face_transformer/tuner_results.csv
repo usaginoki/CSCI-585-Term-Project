@@ -1,0 +1,9 @@
+HOP_LENGTH,NUM_MFCC,N_FFT,batch_size,d_model,dense_units,dim_feedforward,dropout_rate,l1_l2_reg,layers_batch_norm,nhead,normalise,num_decoder_layers,num_encoder_layers,num_layers,prev_layers_trainable,val_acc
+512,13,2048,64,512,512,1024,0.1,0.0001,True,8,True,5,3,3,True,0.591796875
+512,13,2048,64,512,256,1024,0.1,0.0001,True,8,True,5,3,3,True,0.63671875
+512,13,2048,64,512,256,1024,0.3,0.0001,True,8,True,5,3,3,True,0.560546875
+512,13,2048,64,512,256,1024,0.1,0.0001,True,8,True,5,3,3,True,0.677734375
+512,13,2048,64,512,512,1024,0.3,0.0001,True,8,True,5,3,2,True,0.59765625
+512,13,2048,64,512,256,1024,0.3,0.0001,True,8,True,5,3,3,True,0.59375
+512,13,2048,64,512,256,1024,0.1,0.0001,True,8,True,5,3,3,True,0.630859375
+512,13,2048,64,512,256,1024,0.3,0.0001,True,8,True,5,3,2,True,0.57421875

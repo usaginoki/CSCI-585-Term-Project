@@ -1,0 +1,1 @@
+{"HOP_LENGTH": 512, "NUM_MFCC": 13, "N_FFT": 2048, "batch_size": 128, "d_model": 512, "dense_units": 256, "dim_feedforward": 1024, "dropout_rate": 0.1, "l1_l2_reg": 0.0001, "layers_batch_norm": true, "nhead": 8, "normalise": true, "num_decoder_layers": 5, "num_encoder_layers": 3, "num_layers": 3, "prev_layers_trainable": true, "val_acc": 0.677734375}
