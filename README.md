@@ -33,7 +33,7 @@ Definition of the model in model.py and configurations are in tr_config.py
 
 
 Data structure for training and hyperparameter tuning:
-
+```html
    data 
     ├───training_AV                   // Audio visual data used for training the combined model
     │   ├───RAVDESS
@@ -62,3 +62,4 @@ Data structure for training and hyperparameter tuning:
     │   │   │  ├───...other audio
     │   │   ├───test
     │   │   │  ├───<dataset_name>_<s.no>_<emotion>.wav    // We only use testing data from CREMA-D and TESS, this is just an example. The downloaded data will be empty here.
+```
